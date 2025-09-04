@@ -77,8 +77,8 @@ The game window will launch, and you can start playing immediately.
 ```
 Gomoku/
 ├── gomoku_gui.py      # Main game script with GUI, AI, and game logic
-├── README.md          # Documentation (this file)
-└── gomoku.png     # Optional screenshot for the README
+├── README.md          # Documentation
+└── gomoku.png     # Screenshot for the game
 ```
 
 ---
@@ -91,4 +91,5 @@ Gomoku/
 - Package the project for easy installation (PyPI).
 
 ---
+
 
